@@ -1,5 +1,4 @@
-HYKY : Manage
-=============
+# HYKY | Manage
 
 > React/Redux-based front end for our Services API, with cookies :cookie: (not really)
 
@@ -7,7 +6,7 @@ This project aims to offer a simple and extendable interface to manage data into
 
 This project was bootstrapped with `create-react-app`, so you might want to read the original readme at `README-CRA.md` for more information.
 
------
+----------------------------------------------------------------------
 
 ## Dependencies
 
@@ -29,9 +28,9 @@ These are the following development-only dependencies used by this project, eith
 - **node-sass-chokidar** `v1.2.2`
 - **npm-run-all** `v4.1.2`
 
------
+----------------------------------------------------------------------
 
-## How To Run
+## How To
 
 ### TL;DR
 - Clone;
@@ -40,16 +39,21 @@ These are the following development-only dependencies used by this project, eith
   - If you want to build a production version, run `npm run build`;
 - Code!;
 
------
+----------------------------------------------------------------------
 
 ## Authors
 
-This project's developed mainly by the **[HYKY Team][hyky]** collective. See `AUTHORS.md` for more information and, maybe, some contact info.
+See `AUTHORS.md` for more information.
 
------
+----------------------------------------------------------------------
 
-_©2018 HYKY Team_
+## License
+
+This project is licensed under the `MIT License`. See `LICENSE.md` for more details on the subjects of the license.
+
+----------------------------------------------------------------------
+
+_©2018-2020 HYKY Team_
 
 [0]: https://github.com/HYKY/hyky-services
-[hyky]: https://hyky.games
 
